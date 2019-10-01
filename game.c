@@ -6,6 +6,7 @@
 
 #include <gb/gb.h>
 #include <stdio.h>
+#include "SmilerSprites.c"
 
 
 void main() {
